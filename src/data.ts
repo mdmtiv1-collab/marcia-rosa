@@ -90,13 +90,6 @@ export const dishesAndResultsList: DishItem[] = [
     description: "Opções coloridas e balanceadas que trazem energia de verdade e promovem bem-estar real."
   },
   {
-    id: "dish-8",
-    title: "Nhoque de Batata Doce com Molho Caseiro",
-    category: "encomendas",
-    imageUrl: "https://i.imgur.com/3SxvWlY.jpg",
-    description: "Uma versão saudável do clássico de família italiana, preparado artesanalmente com muito amor."
-  },
-  {
     id: "dish-9",
     title: "Cuidado e Apresentação",
     category: "sofisticados",
@@ -118,8 +111,8 @@ export const advantagesList: AdvantageItem[] = [
   },
   {
     id: "adv-2",
-    title: "Atendimento direto",
-    description: "Você fala e combina tudo diretamente comigo, a chef que pensa e prepara cada etapa do seu cardápio.",
+    title: "Atendimento personalizado",
+    description: "Cada etapa é alinhada de forma exclusiva diretamente comigo. Você fala e combina tudo com a chef que pensará e preparará todo o seu menu.",
     iconName: "MessageCircle"
   },
   {
@@ -136,9 +129,9 @@ export const advantagesList: AdvantageItem[] = [
   },
   {
     id: "adv-5",
-    title: "Encomendas personalizadas",
-    description: "Adaptação a restrições alimentares (sem glúten, sem lactose, baixo carbo) ou montagem de banquetes sob medida.",
-    iconName: "Heart"
+    title: "Opções personalizadas",
+    description: "Soluções sob medida para a sua rotina semanal de marmitas saudáveis, jantares agradáveis em família ou ocasiões especiais.",
+    iconName: "Sparkles"
   },
   {
     id: "adv-6",
@@ -177,12 +170,6 @@ export const stepsList: StepItem[] = [
  * Visual showing the routine, kitchens, ingredients, active packaging.
  */
 export const behindTheScenesList: BehindTheScenesItem[] = [
-  {
-    id: "bts-1",
-    imageUrl: "https://i.imgur.com/zfqiqqR.jpg",
-    caption: "Preparo artesanal e cuidadoso",
-    tag: "Na Cozinha"
-  },
   {
     id: "bts-2",
     imageUrl: "https://i.imgur.com/R6pE6vI.jpg",

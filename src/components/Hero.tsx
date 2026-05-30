@@ -122,7 +122,7 @@ export default function Hero() {
               </div>
               <div className="flex items-center gap-1">
                 <CheckCircle2 className="w-3.5 h-3.5 text-chef-gold" />
-                <span>Atendimento Sob Medida</span>
+                <span>Atendimento Personalizado</span>
               </div>
             </motion.div>
 

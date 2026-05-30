@@ -4,10 +4,10 @@ import { brandConfig } from '../data';
 
 export default function AboutMe() {
   const highlights = [
-    { text: "Atendimento direto comigo da escolha à entrega", icon: UserCheck },
+    { text: "Atendimento personalizado da escolha à entrega", icon: UserCheck },
     { text: "Preparo 100% caseiro e artesanal, rico em afeto", icon: Heart },
     { text: "Ingredientes frescos de feira e fornecedores locais", icon: Star },
-    { text: "Opções sob medida para rotina, família ou ocasiões", icon: Sparkles },
+    { text: "Opções personalizadas para rotina, família ou ocasiões", icon: Sparkles },
     { text: "Organização cirúrgica e higiene em todas as etapas", icon: Shield },
     { text: "Segurança de entrega pontual combinada por região", icon: Award },
   ];
