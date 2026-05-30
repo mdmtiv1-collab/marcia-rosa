@@ -1,0 +1,6 @@
+{
+  "name": "Marcia Rosa - Personal Chef",
+  "description": "Landing page premium focada em orçamentos e pedidos de marmitas saudáveis, pratos sofisticados e alimentação personalizada pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
